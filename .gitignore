@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+node_modules/
+.vscode/
+.env
+.env.local
+*.log
+__pycache__/
+*.pyc
+/public_html/Resume.pdf
+/public_html/images/*.psd
